@@ -4,7 +4,7 @@ Some interesting papers on AIGC.
 
 | input | output | model |
 | --- | --- | --- |
-| text | text | [Large Language Models (LLM)](LARGE_LANGUAGE_MODELS.md) |
-| multimodality | text | [Multimodal Large Language Models (MLLM)](MULTIMODAL_LARGE_LANGUAGE_MODELS.md) |
-| text / vision / multimodality | vision | [Visual Generative Models (VGM)](VISUAL_GENERATIVE_MODELS.md) |
-| multimodality | multimodality | [Large Multimodal Models (LMM)](LARGE_MULTIMODAL_MODELS.md) |
+| text | text | [Large Language Model (LLM)](LARGE_LANGUAGE_MODEL.md) |
+| multimodality | text | [Multimodal Large Language Model (MLLM)](MULTIMODAL_LARGE_LANGUAGE_MODEL.md) |
+| text / vision / multimodality | vision | [Visual Generative Model (VGM)](VISUAL_GENERATIVE_MODEL.md) |
+| multimodality | multimodality | [Large Multimodal Model (LMM)](LARGE_MULTIMODAL_MODEL.md) |

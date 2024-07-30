@@ -1,7 +1,7 @@
-# Large Multimodal Models (LMM)
+# Large Multimodal Model (LMM)
 
 ## Contents
-- [Large Multimodal Models (LMM)](#large-multimodal-models-lmm)
+- [Large Multimodal Model (LMM)](#large-multimodal-model-lmm)
   - [Contents](#contents)
   - [Instruction Tuning](#instruction-tuning)
 

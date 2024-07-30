@@ -1,2 +1,2 @@
-# Multimodel Large Language Models (MLLM)
+# Multimodel Large Language Model (MLLM)
 

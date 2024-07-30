@@ -1,11 +1,11 @@
-# Visual Generative Models (VGM)
+# Visual Generative Model (VGM)
 
 ## Contents
-- [Visual Generative Models (VGM)](#visual-generative-models-vgm)
+- [Visual Generative Model (VGM)](#visual-generative-model-vgm)
   - [Contents](#contents)
   - [Survey \& Analysis](#survey--analysis)
-  - [Foundation Models](#foundation-models)
-  - [Downstream Tasks](#downstream-tasks)
+  - [Foundation Model](#foundation-model)
+  - [Downstream Task](#downstream-task)
 
 ## Survey & Analysis
 
@@ -14,7 +14,7 @@
 | 2024-04-01 | [**Bigger is not Always Better: Scaling Properties of Latent Diffusion Models**](https://arxiv.org/abs/2404.01367) *(arXiv 2024)* | - |
 
 
-## Foundation Models
+## Foundation Model
 
 | submit_date | model_name | paper (venue) | input_modality | output_modality | project_url |
 | --- | --- | --- | --- | --- | --- |
@@ -27,9 +27,9 @@
 | 2021-12-20 | **LDM** | [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://arxiv.org/pdf/2112.10752) (*CVPR 2022*) | text | image | ![Star](https://img.shields.io/github/stars/CompVis/latent-diffusion.svg?style=social&label=Star) |
 | 2020-12-16 | **DDPM** | [**Denoising Diffusion Probabilistic Models**](https://arxiv.org/abs/2006.11239) (*NeurIPS 2020*)| / | image | ![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star) |
 
-## Downstream Tasks
+## Downstream Task
 
 | submit_date | model_name | paper (venue) | input_modality | output_modality | task | project_url |
 | --- | --- | --- | --- | --- | --- | --- |
-| 2023-10-11 | **ScaleCrafter** | [**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**](https://arxiv.org/pdf/2310.07702) | image | image | super resolution | ![Star](https://img.shields.io/github/stars/YingqingHe/ScaleCrafter.svg?style=social&label=Star) |
+| 2023-10-11 | **ScaleCrafter** | [**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**](https://arxiv.org/pdf/2310.07702) | image | image | high resolution | ![Star](https://img.shields.io/github/stars/YingqingHe/ScaleCrafter.svg?style=social&label=Star) |
 | 2023-02-10 | **ControlNet** | [**Adding Conditional Control to Text-to-Image Diffusion Models**](https://arxiv.org/pdf/2302.05543) (*ICCV 2023*)| sketch, normal map, depth map, canny edge, M-LSD line, HED edge, AED20k seg., human pose | image | controllable generation | ![Star](https://img.shields.io/github/stars/lllyasviel/ControlNet.svg?style=social&label=Star) |
