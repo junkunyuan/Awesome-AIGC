@@ -2,7 +2,7 @@
 
 Some interesting papers on AIGC.
 
-| input | output | model |
+| input_modality | output_modality | model |
 | --- | --- | --- |
 | text | text | [Large Language Model (LLM)](LARGE_LANGUAGE_MODEL.md) |
 | multimodality | text | [Multimodal Large Language Model (MLLM)](MULTIMODAL_LARGE_LANGUAGE_MODEL.md) |
