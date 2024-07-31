@@ -18,6 +18,7 @@
 
 | submit_date | model_name | paper (venue) | input_modality | output_modality | project_url |
 | --- | --- | --- | --- | --- | --- |
+| 2024-07-16 | **DiT-MoE** | [**Scaling Diffusion Transformers to 16 Billion Parameters**](https://arxiv.org/pdf/2407.11633) | text | image | ![Star](https://img.shields.io/github/stars/feizc/DiT-MoE.svg?style=social&label=Star) |
 | 2024-06-17 | **MAR** | [**Autoregressive Image Generation without Vector Quantization**](https://arxiv.org/pdf/2406.11838) (*arXiv 2024*) | - | image | ![Star](https://img.shields.io/github/stars/LTH14/mar.svg?style=social&label=Star) | 
 | 2024-05-09 | **Lumina-T2X** | [**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**](https://arxiv.org/pdf/2405.05945) (*arXiv 2024*) | text | image, video, 3D, audio | ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star) |
 | 2024-05-07 | **PixArt-Σ** | [**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**](https://arxiv.org/pdf/2403.04692) (*arXiv 2024*) | text | image | ![Star](https://img.shields.io/github/stars/PixArt-alpha/PixArt-sigma.svg?style=social&label=Star) |
