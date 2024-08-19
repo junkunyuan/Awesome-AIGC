@@ -18,6 +18,7 @@
 
 | submit_date | model_name | paper (venue) | project_url | modality |
 | --- | --- | --- | --- | --- |
+| 2024-08-12 | **CogVideoX** | [**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**](https://arxiv.org/pdf/2408.06072) *(arXiv 2024)* | ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star) | text => video |
 | 2024-07-16 | **DiT-MoE** | [**Scaling Diffusion Transformers to 16 Billion Parameters**](https://arxiv.org/pdf/2407.11633) *(arXiv 2024)* | ![Star](https://img.shields.io/github/stars/feizc/DiT-MoE.svg?style=social&label=Star) | text => image |
 | 2024-06-17 | **MAR** | [**Autoregressive Image Generation without Vector Quantization**](https://arxiv.org/pdf/2406.11838) *(arXiv 2024)* | ![Star](https://img.shields.io/github/stars/LTH14/mar.svg?style=social&label=Star) | => image  | 
 | 2024-05-09 | **Lumina-T2X** | [**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**](https://arxiv.org/pdf/2405.05945) *(arXiv 2024)* | ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star) | text => image, video, 3D, audio |
