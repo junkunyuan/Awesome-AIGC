@@ -3,7 +3,14 @@
 ## Contents
 - [Large Multimodal Model (LMM)](#large-multimodal-model-lmm)
   - [Contents](#contents)
+  - [Foundation Model](#foundation-model)
   - [Fine-tuning](#fine-tuning)
+
+## Foundation Model
+
+| submit_date | model_name | paper (venue) | project_url | modality |
+| --- | --- | --- | --- | --- |
+| 2024-08-20 | **Transfusion** | [**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**](https://arxiv.org/pdf/2408.11039) | ![Star](https://img.shields.io/github/stars/lucidrains/transfusion-pytorch.svg?style=social&label=Star) | text, image => text, image |
 
 ## Fine-tuning
 
