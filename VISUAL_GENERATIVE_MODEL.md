@@ -18,6 +18,7 @@
 
 | submit_date | model_name | paper (venue) | project_url | modality |
 | --- | --- | --- | --- | --- |
+| 2024-10-17 | **Movie Gen** | [**Movie Gen: A Cast of Media Foundation Models**](https://arxiv.org/pdf/2410.13720) *(arXiv 2024)* | [Project](https://ai.meta.com/research/movie-gen/) | text, image, video => image, video, audio |
 | 2024-08-12 | **CogVideoX** | [**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**](https://arxiv.org/pdf/2408.06072) *(arXiv 2024)* | ![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star) | text => video |
 | 2024-07-16 | **DiT-MoE** | [**Scaling Diffusion Transformers to 16 Billion Parameters**](https://arxiv.org/pdf/2407.11633) *(arXiv 2024)* | ![Star](https://img.shields.io/github/stars/feizc/DiT-MoE.svg?style=social&label=Star) | text => image |
 | 2024-06-17 | **MAR** | [**Autoregressive Image Generation without Vector Quantization**](https://arxiv.org/pdf/2406.11838) *(arXiv 2024)* | ![Star](https://img.shields.io/github/stars/LTH14/mar.svg?style=social&label=Star) | => image  | 
